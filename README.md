@@ -1,6 +1,18 @@
 ## ✨Olá
 bem-vinda(o) ao meu perfil 👋🏻.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GIF do Tenor</title>
+</head>
+<body>
+    <img src="https://tenor.com/bc7EP.gif" alt="Cat Computer GIF">
+</body>
+</html>
+
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
 📝Aprendendo📝
@@ -30,15 +42,3 @@ bem-vinda(o) ao meu perfil 👋🏻.
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Machado-da-Silva&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmin-Machado-da-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIF do Tenor</title>
-</head>
-<body>
-    <img src="https://tenor.com/bc7EP.gif" alt="Cat Computer GIF">
-</body>
-</html>
