@@ -31,4 +31,14 @@ bem-vinda(o) ao meu perfil 👋🏻.
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmin-Machado-da-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<img src="https://media.tenor.com/images/.../original.gif" alt="Cat Computer GIF">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GIF do Tenor</title>
+</head>
+<body>
+    <img src="https://media.tenor.com/images/.../original.gif" alt="Cat Computer GIF">
+</body>
+</html>
