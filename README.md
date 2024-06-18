@@ -1,8 +1,6 @@
 ## ✨Olá
 bem-vinda(o) ao meu perfil 👋🏻.
 
-<img src="https://media.tenor.com/images/.../original.gif" alt="Cat Computer GIF">
-
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
 📝Aprendendo📝
@@ -32,3 +30,5 @@ bem-vinda(o) ao meu perfil 👋🏻.
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Machado-da-Silva&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmin-Machado-da-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<img src="https://media.tenor.com/images/.../original.gif" alt="Cat Computer GIF">
