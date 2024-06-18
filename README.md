@@ -6,7 +6,7 @@ bem-vinda(o) ao meu perfil 👋🏻.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIF do Tenor</title>
+    <Cat Computer GIF>GIF do Tenor</Cat Computer GIF>
 </head>
 <body>
     <img src="https://tenor.com/bc7EP.gif" alt="Cat Computer GIF">
