@@ -1,8 +1,20 @@
 ## ✨Olá
 bem-vinda(o) ao meu perfil 👋🏻.
 
-<div class="tenor-gif-embed" data-postid="15481689" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-busy-gif-15481689">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GIF Test</title>
+</head>
+<body>
+    <div class="tenor-gif-embed" data-postid="15481689" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%">
+        <a href="https://tenor.com/view/cat-computer-typing-busy-gif-15481689">Cat Computer GIF</a> from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a>
+    </div>
+    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</body>
+</html>
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
