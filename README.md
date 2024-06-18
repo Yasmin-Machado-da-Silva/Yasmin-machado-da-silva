@@ -27,6 +27,6 @@ bem-vinda(o) ao meu perfil 👋🏻.
 
 <div>
 <a href="https://github.com/Yasmin-Machado-da-Silva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Machado-da-Silva&layout=compact&langs_count=7&theme=NightOwl"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmin-Machado-da-Silva&show_icons=true&theme=NightOwl&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Machado-da-Silva&layout=compact&langs_count=7&theme=AriakeDark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmin-Machado-da-Silva&show_icons=true&theme=AriakeDark&include_all_commits=true&count_private=true"/>
 </div>
