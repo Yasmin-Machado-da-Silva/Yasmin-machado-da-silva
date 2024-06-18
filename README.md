@@ -39,6 +39,6 @@ bem-vinda(o) ao meu perfil 👋🏻.
     <title>GIF do Tenor</title>
 </head>
 <body>
-    <img src="https://media.tenor.com/images/.../original.gif" alt="Cat Computer GIF">
+    <img src="https://tenor.com/bc7EP.gif" alt="Cat Computer GIF">
 </body>
 </html>
