@@ -1,9 +1,7 @@
 ## ✨Olá
 ##bem-vinda(o) ao meu perfil 👋🏻.
 
-<div>
-class="tenor-gif-embed" data-postid="26995868" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-on-keyboard-cat-keyboard-cat-computer-cat-distracting-cat-distraction-gif-26995868">Cat On Keyboard Cat Keyboard GIF</a>from <a href="https://tenor.com/search/cat+on+keyboard-gifs">Cat On Keyboard GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+<div class="tenor-gif-embed" data-postid="26995868" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-on-keyboard-cat-keyboard-cat-computer-cat-distracting-cat-distraction-gif-26995868">Cat On Keyboard Cat Keyboard GIF</a>from <a href="https://tenor.com/search/cat+on+keyboard-gifs">Cat On Keyboard GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
