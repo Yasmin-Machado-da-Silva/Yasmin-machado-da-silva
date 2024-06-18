@@ -1,18 +1,6 @@
 ## ✨Olá
 bem-vinda(o) ao meu perfil 👋🏻.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <Cat Computer GIF> GIF do Tenor</Cat Computer GIF>
-</head>
-<body>
-    <img src="https://tenor.com/bc7EP.gif" alt="Cat Computer GIF">
-</body>
-</html>
-
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
 📝Aprendendo📝
