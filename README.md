@@ -4,7 +4,7 @@ bem-vinda(o) ao meu perfil👋🏻.
 <details>
   <summary>
    𝙎𝙤𝙗𝙧𝙚 𝙢𝙞𝙢 </summary>
-    ❝Desenvolvedora aprendiz no SENAI, cursando Desenvolvimento de Sistemas. Apaixonada por tecnologia e sempre em busca de aprender e evoluir. Nos meus tempos livres, gosto de jogar e explorar novos jogos. 🚀!!❞
+    ❝Desenvolvedora aprendiz no SENAI, cursando Desenvolvimento de Sistemas. Apaixonada por tecnologia e sempre em busca de aprender e evoluir. Nos meus tempos livres, gosto de jogar e explorar novos jogos !!❞
   <br>
 </details>
 
