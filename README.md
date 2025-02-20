@@ -35,9 +35,11 @@ bem-vinda(o) ao meu perfil👋🏻.
 
 ## 🎀Redes sociais🎀
 <div>
-<a href="https://www.instagram.com/y4smin_machad0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/y4smin_machad0/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="140" height="40">
+  </a>
 
-<a href="mailto:yasminmachadodasilva01@gmail.com">
-<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail">
-</a>
+  <a href="mailto:yasminmachadodasilva01@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" width="130" height="40">
+  </a>
 </div>
