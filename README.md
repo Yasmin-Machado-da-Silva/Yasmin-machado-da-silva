@@ -8,6 +8,7 @@ bem-vinda(o) ao meu perfil👋🏻.
   <br>
 </details>
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGphdWs3Zm1sMnQ1bmFuZDlkcmQ4aHh2cWo5ZDJpc2E3N2IwbmdlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1ngQXFaUxWO4/giphy.gif" width="950" height="500" />
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
