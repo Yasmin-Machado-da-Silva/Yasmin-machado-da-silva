@@ -8,7 +8,8 @@ bem-vinda(o) ao meu perfil👋🏻.
   <br>
 </details>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE0ZXBycXYxbXg4NTVxcGdsc2RyNWt4aTcxZDhrOW80M2N1ZW82MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AplmXLdJMO4dW/giphy.gif" width="950" height="500" />
+<img width="4950" height="1238" alt="Banner GitHub" src="https://github.com/user-attachments/assets/b42e7f72-88f4-4081-804e-b132b9f1548f" />
+
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
