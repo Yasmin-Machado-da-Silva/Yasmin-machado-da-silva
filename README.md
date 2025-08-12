@@ -19,7 +19,7 @@
 
 ---
 
-<img width="100%" alt="Banner GitHub" src="https://github.com/user-attachments/assets/b42e7f72-88f4-4081-804e-b132b9f1548f" />
+<img width="4950" height="1238" alt="Banner GitHub (1)" src="https://github.com/user-attachments/assets/bcfc2f0f-d7a1-420c-987c-2a618d7cd526" />
 
 ---
 
