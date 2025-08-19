@@ -70,11 +70,10 @@ Sou uma desenvolvedora aprendiz apaixonada por tecnologia, jogos e evolução co
 
 <div align="center">
   <a href="https://www.instagram.com/y4smin_machad0/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-6a41cd?style=for-the-badge&logo=instagram&logoColor=white" width="160"/>
+    <img src="https://img.shields.io/badge/Instagram-6a41cd?style=for-the-badge&logo=instagram&logoColor=white" width="225" height="60"/>
   </a>
-
   <a href="mailto:yasminmachadodasilva01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6a41cd?style=for-the-badge&logo=gmail&logoColor=white" width="160"/>
+    <img src="https://img.shields.io/badge/Gmail-6a41cd?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="60"/>
   </a>
 </div>
 
