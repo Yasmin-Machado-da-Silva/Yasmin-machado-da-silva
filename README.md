@@ -59,7 +59,7 @@ Sou uma desenvolvedora aprendiz apaixonada por tecnologia, jogos e evolução co
 <div align="center">
 
 <!-- Estatísticas usando gerador alternativo -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasmin-Machado-da-Silva&theme=midnight-purple&hide_border=true" height="180em" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasmin-Machado-da-Silva&theme=midnight-purple&hide_border=tre" height="180em" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Machado-da-Silva&layout=compact&langs_count=7&bg_color=000000&title_color=6a41cd&text_color=ffffff&hide_border=true" height="180em" />
 
 </div>
