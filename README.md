@@ -45,22 +45,23 @@ Sou uma desenvolvedora aprendiz apaixonada por tecnologia, jogos e evolução co
 
 ## 🧠 Outras habilidades
 
-<table>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td>
+<td align="left">
 
-- 🔗 APIs em C#  
-- 🎨 UX/UI Design  
-- 🌀 Metodologias Ágeis (Scrum e Kanban)  
-- 📌 Trello  
-- 🏗️ MVC  
+✨ APIs em C#  
+🎨 UX/UI Design  
+🌀 Metodologias Ágeis (Scrum e Kanban)  
+📌 Trello  
+🏗️ MVC  
 
 </td>
 <td align="center">
-<img src="https://media.tenor.com/U0L7fmkcNo0AAAAi/uxie-shiny.gif" width="90">
+<img src="https://media.tenor.com/U0L7fmkcNo0AAAAi/uxie-shiny.gif" width="100"/>
 </td>
 </tr>
 </table>
+
 
 ---
 
