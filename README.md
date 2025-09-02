@@ -93,4 +93,7 @@ Sou uma desenvolvedora aprendiz apaixonada por tecnologia, jogos e evolução co
 
 <div align="center">
 🌸 Obrigada por visitar meu perfil! 🌸  
+
+![github-user-contribution](https://github.com/user-attachments/assets/2e06722f-1a6f-4042-8a17-a2810fc17978)
+<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 </div>
