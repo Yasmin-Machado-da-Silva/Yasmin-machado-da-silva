@@ -87,6 +87,9 @@ Sou uma desenvolvedora aprendiz apaixonada por tecnologia, jogos e evolução co
   <a href="mailto:yasminmachadodasilva01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6a41cd?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="60"/>
   </a>
+  <a href="https://www.linkedin.com/in/yasmin-machado-da-silva-42ba62377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6a41cd?style=for-the-badge&logo=linkedin&logoColor=white" width="200" height="60"/>
+  </a>
 </div>
 
 ---
