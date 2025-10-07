@@ -3,7 +3,8 @@
 <!-- ✨ Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2500&pause=800&color=6A41CD&center=true&vCenter=true&width=900&height=60&lines=Ol%C3%A1%2C+bem-vindo%28a%29;Hi%2C+Welcome)](https://git.io/typing-svg)
 
-Sou uma desenvolvedora aprendiz apaixonada por tecnologia, jogos e evolução constante!  
+Sou uma desenvolvedora aprendiz apaixonada por tecnologia, jogos e evolução constante!<br>
+💼 Confira meu portfólio: [yasmin-machado-da-silva.github.io/portifolio](https://yasmin-machado-da-silva.github.io/portifolio/)
 
 <img width="4950" height="300" alt="Banner" src="https://github.com/user-attachments/assets/bcfc2f0f-d7a1-420c-987c-2a618d7cd526" />
 
